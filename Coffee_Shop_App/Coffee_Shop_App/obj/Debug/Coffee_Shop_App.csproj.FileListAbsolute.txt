@@ -1,0 +1,5 @@
+C:\Users\aqias\Desktop\Coffee_Shop_App\Coffee_Shop_App\bin\Debug\Coffee_Shop_App.dll
+C:\Users\aqias\Desktop\Coffee_Shop_App\Coffee_Shop_App\bin\Debug\Coffee_Shop_App.pdb
+C:\Users\aqias\Desktop\Coffee_Shop_App\Coffee_Shop_App\obj\Debug\Coffee_Shop_App.csproj.CoreCompileInputs.cache
+C:\Users\aqias\Desktop\Coffee_Shop_App\Coffee_Shop_App\obj\Debug\Coffee_Shop_App.dll
+C:\Users\aqias\Desktop\Coffee_Shop_App\Coffee_Shop_App\obj\Debug\Coffee_Shop_App.pdb
